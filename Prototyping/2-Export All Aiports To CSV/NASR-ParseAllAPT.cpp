@@ -3,13 +3,9 @@
 #include <sstream>
 #include <vector>
 
-void PrintAirport (const std::string input)
-{
-}
-
 int main (int argc, char *argv[]) 
 {	
-	std::ifstream infile ("APT.txt");
+	std::ifstream infile ("APT-Sample.txt");
 	std::ofstream outFile;
 	
 	outFile.open ("airports.txt");

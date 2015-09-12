@@ -257,8 +257,6 @@ void LoadAptEntries ()
 
 void PrintAirport (const std::string input)
 {
-	std::cout << std::endl;
-	
 	for (auto it = airportEntries.begin(); it < airportEntries.end(); it++)
 	{
 		std::cout << it->identifier << std::endl << input.substr(it->startPosition, it->elementLength) << std::endl << std::endl;
