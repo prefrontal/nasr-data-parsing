@@ -1,6 +1,8 @@
 # nasr-data-parsing
 Scripts to parse National Airspace Systems Resources data from the FAA
 
+![](http://prefrontal.org/github/AirportData.png)
+
 Let's say, hypothetically, you want to get the latitude and longitude of every airport in the US.  Where would you go?  Well, there are several open data projects, such as http://openflights.org and http://ourairports.com.  However, the FAA itself produces detailed, up-to-date information through the National Flight Data Center (NFDC; https://nfdc.faa.gov).  Why not use that?
 
 The National Airspace Systems Resources (NASR) data are updated every 56 days.  The data are available in the Aeronautical Information Exchange Model (AIXM) file format and also in the legacy CSV format.  These scripts are intended to be used with the CSV data.
