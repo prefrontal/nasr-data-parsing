@@ -1,7 +1,7 @@
 # nasr-data-parsing
 Scripts to parse National Airspace Systems Resources data from the FAA
 
-![](http://prefrontal.org/github/AirportData.png)
+![](http://prefrontal.org/github/AirportData2.png)
 
 Let's say, hypothetically, you want to get the latitude and longitude of every airport in the US.  Where would you go?  Well, there are several open data projects, such as http://openflights.org and http://ourairports.com.  However, the FAA itself produces detailed, up-to-date information through the National Flight Data Center (NFDC; https://nfdc.faa.gov).  Why not use that?
 
