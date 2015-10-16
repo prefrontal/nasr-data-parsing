@@ -1,0 +1,12 @@
+V386 :    10, SAN MARCUS                    , VORTAC             , 34.5095, 119.771
+V386 :    20, OHIGH                         , REP-PT             , 34.4314, 119.311
+V386 :    30, FILLMORE                      , VORTAC             , 34.3567, 118.881
+V386 :    50, UMBER                         , REP-PT             , 34.4803, 118.516
+V386 :    60, SAUGS                         , REP-PT             , 34.4966, 118.468
+V386 :    70, PALMDALE                      , VORTAC             , 34.6314, 118.064
+V386 :    80, ZOREN                         , REP-PT             , 34.6048, 117.763
+V386 :    90, APLES                         , REP-PT             , 34.5485, 117.149
+V386 :   110, SOGGI                         , REP-PT             , 34.503, 116.678
+V386 :   120, OKACO                         , REP-PT             , 34.2646, 116.584
+V386 :   130, YUCCA                         , REP-PT             , 34.1035, 116.521
+V386 :   140, PALM SPRINGS                  , VORTAC             , 33.87, 116.43
